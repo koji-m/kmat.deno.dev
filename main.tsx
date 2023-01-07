@@ -10,6 +10,9 @@ blog({
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
   author: "Koji Matsumoto",
+  links: [
+    {title: "GitHub", url: "https://github.com/koji-m"},
+  ],
 
   // middlewares: [
 
